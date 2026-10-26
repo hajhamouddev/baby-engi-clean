@@ -1,0 +1,14 @@
+
+
+# Private credentials and local machine data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+auth.json
+credentials.json
+/opencode/knowledge/
+/opencode/مهارات-خاصة-وقواعد/MEMORY.md
+/opencode/service.json
+/opencode/cli.json
